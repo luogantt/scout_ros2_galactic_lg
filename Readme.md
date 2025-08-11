@@ -3,11 +3,11 @@
 
 # 或者你直接下载我调整好的
 ```
-git clone https://github.com/luogantt/scout_ros2_humble_lg
+git clone https://github.com/luogantt/scout_ros2_galactic_lg
 ```
 
 ```
- cd scout_ros2_humble_lg
+ cd scout_ros2_galactic_lg
  colcon build
 ```
 
